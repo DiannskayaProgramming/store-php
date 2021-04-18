@@ -1,0 +1,1 @@
+﻿<?phpecho  <<<HERE<table border=0 align = "right" width = "70%" cellpadding = "0" cellspacing = "0"><tr><td><center><hr><a href="fermer.phtml" style = "color:#A98B79">Перейти к каталогу</a></center></td></tr></table></body></html>HERE;
